@@ -18,7 +18,7 @@
 - returnBidderAmount Function:
 
       will return amount for bidding of specific address.
--returnBalance Function:
+- returnBalance Function:
 
       In this function only Owner of the contract can check total
       balance in the contract stored.
